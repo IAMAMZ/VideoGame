@@ -38,5 +38,10 @@ public class VideoGame {
             this.price =price;
         }
     }
+
+    @Override
+    public String toString() {return title + " costs "+ "$"+ price +  " released on: " +releaseYear;}
+
+
 }
 
