@@ -35,6 +35,7 @@ public class VideoGame {
             throw new IllegalArgumentException("Please enter a valid price");
         }
         else{
+            //if( price instanceof Integer) price = Double.valueOf(price);
             this.price =price;
         }
     }
