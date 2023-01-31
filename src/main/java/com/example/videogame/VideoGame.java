@@ -38,6 +38,9 @@ public class VideoGame {
             this.price =price;
         }
     }
+    public Double getPrice() {
+        return this.price;
+    }
 
     @Override
     public String toString() {return title + " costs "+ "$"+ price +  " released on: " +releaseYear;}

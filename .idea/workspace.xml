@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c40f94d9-1a9e-4dc3-ac39-577aaaa08dba" name="Changes" comment="Add getter and setter for the videoGame class.">
+    <list default="true" id="c40f94d9-1a9e-4dc3-ac39-577aaaa08dba" name="Changes" comment="Add toString method and test the class by creating an instance in the main">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/videogame/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/videogame/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/videogame/VideoGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/videogame/VideoGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/videogame/VideoGameCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/videogame/VideoGameCart.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +62,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "editor.preferences.import",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -73,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1675100721671</updated>
-      <workItem from="1675100722914" duration="4438000" />
+      <workItem from="1675100722914" duration="6300000" />
     </task>
     <task id="LOCAL-00001" summary="Add three classes, Main, VideoGame, VideoGameCart">
       <created>1675122957994</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675127073135</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add toString method and test the class by creating an instance in the main">
+      <created>1675128415076</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1675128415076</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +118,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="Add three classes, Main, VideoGame, VideoGameCart" />
     <MESSAGE value="Add getter and setter for the videoGame class." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add getter and setter for the videoGame class." />
+    <MESSAGE value="Add toString method and test the class by creating an instance in the main" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add toString method and test the class by creating an instance in the main" />
   </component>
 </project>
